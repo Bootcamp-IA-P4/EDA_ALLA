@@ -71,6 +71,6 @@ Además, he tenido que usar GeoNames para sacar las coordenadas de todas las ciu
 
 <img width="577" alt="Captura de pantalla 2025-04-01 a las 9 31 12" src="https://github.com/user-attachments/assets/b2db660f-1d80-4630-9566-d222507de6f4" />
 
-Puedes ver el EDA completo aquí📍. 
+Puedes ver los pasos y código del [EDA completo aquí📍.](https://github.com/alharuty/Proyecto-EDA-MiniDathaton/blob/main/Proyecto_IV_Datathon.ipynb)
 
 **Dame estrella⭐ en mi proyecto y apóyame**🤗
