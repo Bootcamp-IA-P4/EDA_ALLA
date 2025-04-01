@@ -54,7 +54,7 @@ Ahora que tenemos los datos limpios, he decidido crear una nueva tabla (new_db) 
 - workday => Tipo de jornada
 - company => Empresa
 
-La tabla limpia se ve así: 👇
+La tabla limpia se ve así: 👇 [Ver tabla limpia](https://github.com/alharuty/Proyecto-EDA-MiniDathaton/blob/main/job_offers_cleaned.csv)
 <img width="1164" alt="Captura de pantalla 2025-04-01 a las 9 15 33" src="https://github.com/user-attachments/assets/60365d5c-2ddd-43c4-89dd-f36b302db1c9" />
 
 Para el análisis he usado librerías como:
@@ -67,7 +67,7 @@ Para el análisis he usado librerías como:
 - **folium:** mostrar mapa de calor
 - **matplotlib.pyplot:** mostrar gráficos
 
-Además, he tenido que usar GeoNames para sacar las coordenadas de todas las ciudades que aparecen en mi tabla, y así poder pintarlos en el mapa de calor.
+Además, he tenido que usar [GeoNames](https://www.geonames.org/) para sacar las coordenadas de todas las ciudades que aparecen en mi tabla, y así poder pintarlos en el mapa de calor.
 
 <img width="643" alt="Captura de pantalla 2025-04-01 a las 11 57 53" src="https://github.com/user-attachments/assets/1c7f4994-45af-4c14-b6d6-3df7db82c3b6" />
 
