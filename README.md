@@ -69,9 +69,9 @@ Para el análisis he usado librerías como:
 
 Además, he tenido que usar GeoNames para sacar las coordenadas de todas las ciudades que aparecen en mi tabla, y así poder pintarlos en el mapa de calor.
 
-<img width="577" alt="Captura de pantalla 2025-04-01 a las 9 31 12" src="https://github.com/user-attachments/assets/b2db660f-1d80-4630-9566-d222507de6f4" />
+<img width="643" alt="Captura de pantalla 2025-04-01 a las 11 57 53" src="https://github.com/user-attachments/assets/1c7f4994-45af-4c14-b6d6-3df7db82c3b6" />
 
-Puedes ver los pasos y código del [EDA completo aquí📍.](https://github.com/alharuty/Proyecto-EDA-MiniDathaton/blob/main/Proyecto_IV_Datathon.ipynb)
+Puedes ver los pasos y código del [EDA completo aquí📍.](https://github.com/alharuty/Proyecto-EDA-MiniDathaton/blob/main/Proyecto_IV_Datathon.ipynb)<br>
 Puedes ver el [EDA completo y la conclusión aquí📍.](https://github.com/alharuty/Proyecto-EDA-MiniDathaton/blob/main/EDA_Alla.pdf)
 
 **Dame estrella⭐ en mi proyecto y apóyame**🤗
