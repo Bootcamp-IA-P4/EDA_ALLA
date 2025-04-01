@@ -26,6 +26,8 @@ Para el correcto análisis he tenido que hacer limpieza en varias columnas de la
     - **Hacer una media del rango del salario para cada oferta de trabajo:** pasar de "30.000 € - 36.000 € Bruto/año" a 33.000<br>
     - **Cambiar el "No disponible" por NaN**<br>
     - **Si encuentra un salario que dice "Más de X€"**, dejarlo simplemente en X<br>
+    - **Si encuentra un salario entre 1.000€ y 5.000€** lo he contado como si fuese un salario mensual, por lo que lo he multiplicado por 12 para tener el anual<br>
+    - **Si es un salario menor de 1000€** le pongo NaN<br>
   2. **Limpieza de duplicados:** Viendo las estadísticas básicas, me he dado cuenta que de las 2586 ofertas(title) sólo 1566 son únicos. Esto es un fallo del scraper, porque no elimina las ofertas duplicadas. Pero tras estudiar la tabla, he tenido en cuenta que puede que haya un mísmo título pero que sea diferente oferta de trabajo, diferente empresa, diferente jornada laboral, etc.<br>
   
 **Por ejemplo:** <br>
